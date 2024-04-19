@@ -2,6 +2,6 @@
 
 Arquivo da aula de Git e Github
 
-Editando o arquivo... 1
+Editando... 1
 
-Editando o arquivo... 2
+Editando... 2
